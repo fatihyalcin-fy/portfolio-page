@@ -1,5 +1,5 @@
 .home-bgImg-container{
-  @include bgImage(100vh, $main-bgImage-path)  
+  @include bgImage(100vh, "../img/horizontal.jpg")  
 }
 
 .home{
